@@ -2,7 +2,8 @@
 
 https://guiltyspark.cloud 
 
-🌱 I’m currently learning IPv6
+- 🔭 I’m currently working on Terraform modules for Azure Virtual WAN and Azure Hub & Spoke networking
+- 🌱 I have done some learning on IPv6.  To see the resources I used and recommend see my site (link above)
 
 <!--
 **pagyP/pagyP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
