@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://guiltyspark.cloud 
+https://guiltyspark.cloud <- Old site
+https://blog.paginton.cloud <- New site
+
 
 - 🔭 I’m currently working on Terraform modules for Azure Virtual WAN and Azure Hub & Spoke networking
 - 🌱 I have done some learning on IPv6.  To see the resources I used and recommend see my site (link above)
