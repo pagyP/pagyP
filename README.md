@@ -7,6 +7,8 @@ https://blog.paginton.cloud <- New site
 - 🔭 I’m currently working on Terraform modules for Azure Virtual WAN and Azure Hub & Spoke networking
 - 🌱 I have done some learning on IPv6.  To see the resources I used and recommend see my site (link above)
 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=pagyP)](https://git.io/streak-stats)
+
 <!--
 **pagyP/pagyP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
