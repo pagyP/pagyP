@@ -3,9 +3,28 @@
 https://guiltyspark.cloud <- Old site
 https://blog.paginton.cloud <- New site
 
+Follow list:
 
-- 🔭 I’m currently working on Terraform modules for Azure Virtual WAN and Azure Hub & Spoke networking
-- 🌱 I have done some learning on IPv6.  To see the resources I used and recommend see my site (link above)
+https://github.com/adstuart
+https://github.com/dmauser
+https://github.com/cynthiatreger
+https://github.com/Danieleg82
+https://github.com/bcosden
+https://github.com/mattfeltonma
+https://github.com/hsze
+https://github.com/mddazure
+https://github.com/fabferri
+https://github.com/erjosito
+https://github.com/jwrightazure
+
+https://www.youtube.com/c/AwesomeOpenSource
+https://github.com/awesome-selfhosted/awesome-selfhosted
+https://www.opensourcealternative.to/
+
+
+
+- 🔭 
+- 🌱 
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=pagyP)](https://git.io/streak-stats)
 
